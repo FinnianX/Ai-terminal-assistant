@@ -8,6 +8,6 @@ Here is some sample output:
 
 <code>What should i do for you, master: make a file called hello.txt and write Hello Github! to it
 
- "command": "echo 'Hello GitHub!' > hello.txt"
+"command": "echo 'Hello GitHub!' > hello.txt"
  
 echo 'Hello GitHub!' > hello.txt: execute y/n: y</code>
