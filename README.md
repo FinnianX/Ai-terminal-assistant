@@ -6,8 +6,8 @@ WARNING: do not blindly run the commands it outputs. ALWAYS check to see that th
 
 Here is some sample output:
 
-<code>What should i do for you, master: make a file called hello.txt and write Hello Github! to it
+<code>What should i do for you, master: make a file called hello.txt and write Hello Github! to it</code>
 
-"command": "echo 'Hello GitHub!' > hello.txt"
+<code>"command": "echo 'Hello GitHub!' > hello.txt"</code>
  
-echo 'Hello GitHub!' > hello.txt: execute y/n: y</code>
+<code>echo 'Hello GitHub!' > hello.txt: execute y/n: y</code>
